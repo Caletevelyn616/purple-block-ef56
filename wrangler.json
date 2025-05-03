@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "purple-block-ef56",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e0144d72-6254-4a85-ac7e-16e78c34a324",
+      "database_name": "flat-voice-a4ad-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
